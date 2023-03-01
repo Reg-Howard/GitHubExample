@@ -3,3 +3,6 @@ Repository for the purposes of learning and testing the use of GitHub. As well a
 
 - Item one
 - Item two
+- Another item
+
+# Some text
